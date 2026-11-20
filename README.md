@@ -1,6 +1,8 @@
 <div align="center">
 
-  <h1>🎒 ABackPack</h1>
+  <img src="logo.png" alt="ABackPack Logo" width="130" height="130" style="border-radius: 24px;" />
+
+  <h1>ABackPack</h1>
   <p><strong>100% Offline, Zero-Cloud, Lossless Device Backup Tool</strong></p>
   <p><em>Created by <strong>Shrey Kumar</strong> in just 4 hours.</em></p>
 
