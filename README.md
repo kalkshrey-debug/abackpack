@@ -9,7 +9,7 @@
   </p>
 
   <p>
-    <strong>ABackPack</strong> ("A Backpack") lets you pack up and back up your phone's photos, videos, documents, and installed APKs straight to your Windows PC—with <strong>0% quality loss</strong>, <strong>no internet</strong>, and <strong>complete privacy</strong>.
+    <strong>ABackPack</strong> lets you pack up and back up your phone's photos, videos, documents, and installed APKs straight to your Windows PC—with <strong>0% quality loss</strong>, <strong>no internet</strong>, and <strong>complete privacy</strong>.
   </p>
 
 </div>
