@@ -5,10 +5,7 @@
   <p><em>Created by <strong>Shrey Kumar</strong> in just 4 hours.</em></p>
 
   <p>
-    100% Offline
-    0% Quality Loss
-    Zero Cloud
-    Platforms
+    100% Offline | 0% Quality Loss | Zero Cloud
   </p>
 
   <p>
